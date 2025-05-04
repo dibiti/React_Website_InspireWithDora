@@ -7,7 +7,7 @@
   font-family: "Outfit", sans-serif;
 }
 body{
-  background: #F5F5F5;
+  background: #5c5a5a;
 }
 a{
   text-decoration: none;
@@ -29,4 +29,11 @@ a{
   cursor: pointer;
   border: 0;
   outline: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn img{
+  width: 40px;
+  margin-left: 10px;
 }
