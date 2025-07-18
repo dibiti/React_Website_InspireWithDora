@@ -12,6 +12,7 @@
 .hero-text{
     text-align: center;
     max-width: 800px;
+    margin-top: 50px;
 }
 .hero-text h1{
     font-size: 60px;
